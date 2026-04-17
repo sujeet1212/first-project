@@ -10,4 +10,4 @@ resource "aws_instance" "myec2" {
     Name = "Terraform-EC2"
   }
 }
-"finalised script"
+"finalised script-v1"
